@@ -18,7 +18,7 @@ const App = (props) => {
       requestOptions
     )
       .then((response) => response.json())
-      .then((result) => setVideos(result))
+      .then((result) => setVideos(result.items))
       .catch((error) => console.log("error", error));
   }, []);
 
