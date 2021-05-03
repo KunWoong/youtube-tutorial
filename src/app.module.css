@@ -3,3 +3,7 @@
   padding: 1em;
   background-color: blanchedalmond;
 }
+
+.app {
+  max-width: 50rem;
+}
