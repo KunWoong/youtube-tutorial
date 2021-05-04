@@ -5,5 +5,16 @@
 }
 
 .app {
-  max-width: 50rem;
+  max-width: 70rem;
+}
+
+.content {
+  display: flex;
+}
+
+.detail {
+  flex: 1 1 70%;
+}
+.list {
+  flex: 1 1 30%;
 }

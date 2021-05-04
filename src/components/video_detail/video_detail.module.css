@@ -1,0 +1,11 @@
+.detail {
+  padding: 0.2em;
+}
+
+.video {
+  margin: 0;
+}
+
+.description {
+  white-space: pre-wrap;
+}
